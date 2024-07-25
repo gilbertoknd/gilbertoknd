@@ -6,7 +6,7 @@
 
 💻 Em busca de oportunidades de emprego para desenvolver ainda mais minhas habilidades, tanto práticas, como trabalho em equipe e a dinâmica no trabalho.
 
-⚙️ Tenho conhecimento em: .py, .js, .html, .css .gd.
+⚙️ Tenho conhecimento em: .py, .cpp, .js, .html, .css .gd.
 
 <div> 
   <a href="https://instagram.com/gilbertoknd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
