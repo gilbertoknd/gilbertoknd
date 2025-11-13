@@ -1,4 +1,5 @@
-<h2 align="left">Olá, sou Gilberto Rodrigues de Natal-RN</h2>
+<h2 align="left">Olá, sou Gilberto Rodrigues</h2>
+<h3>Natal-RN</h3>
 
 🚀 Desenvolvedor em fase de crescimento, formado como Técnico em Informática pelo IFRN.
 
