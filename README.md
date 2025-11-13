@@ -1,5 +1,4 @@
 <h2 align="left">Olá, sou Gilberto Rodrigues</h2>
-<h3>Sou de Parnamirim - RN</h3>
 
 🚀 Desenvolvedor em fase de crescimento, formado como Técnico em Informática pelo IFRN.
 
