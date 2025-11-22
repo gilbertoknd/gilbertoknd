@@ -28,11 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoknd&layout=pie" />
+<div>
+  <a href="https://github.com/gilbertoknd">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertoknd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoknd&layout=pie&langs_count=10&theme=dracula"/>
   </a>
 </div>
+
 
 ###
 
