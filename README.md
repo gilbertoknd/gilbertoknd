@@ -31,7 +31,7 @@
 <div>
   <a href="https://github.com/gilbertoknd">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertoknd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoknd&layout=compact&langs_count=10&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoknd&layout=compact&langs_count=8&theme=dracula&hide=C,C%2B%2B"/>
   </a>
 </div>
 
